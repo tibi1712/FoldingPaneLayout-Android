@@ -1,19 +1,7 @@
-Folding-Android ([Play Store Demo][1])
+FoldingPaneLayout-Android Sample ([Play Store Demo][1])
 =====================
 
-About
------
 
-Usage
------
-
-Contributing
-------------
-
-Pull requests and issues are very welcome!
-
-Feature request are also welcome but i can't make any promise that they will make it in.
-I would like to keep the library as general as possible, if you are unsure you can just ask before you code ;)
 
 
 License
